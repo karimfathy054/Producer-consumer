@@ -14,6 +14,10 @@ we were asked to implement producer, consumers and buffer queues in java taking 
 
 - **We used `http:get` and Restful api to handle front end requests**
 
+## video
+
+![video](/27.01.2023_22.13.00_REC.mp4)
+
 ## Screenshots
 
 ![running simulation](/screenshot.png)
